@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.lh/
+.vscode/
+models/
+*.DS_Store
+*.pyc
+NLP-2-Dataset.zip
+2022_AIcup_baseline.ipynb
+NLP-2-Dataset/*.json
+NLP-2-Dataset/sub-train.txt
