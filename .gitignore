@@ -8,4 +8,4 @@ models/
 NLP-2-Dataset.zip
 2022_AIcup_baseline.ipynb
 NLP-2-Dataset/*.json
-NLP-2-Dataset/sub-train.txt
+NLP-2-Dataset/*.txt
